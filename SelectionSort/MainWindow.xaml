@@ -91,7 +91,7 @@
                             </HyperlinkButton.Content>
                         </HyperlinkButton>
 
-                        <HyperlinkButton NavigateUri="https://www.linkedin.com/in/muhammad-hr-b5b098344">
+                        <HyperlinkButton NavigateUri="https://www.linkedin.com/in/mohammad-haeri/">
                             <HyperlinkButton.Content>
                                 <Image
                                     Width="30"
